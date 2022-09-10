@@ -5,7 +5,7 @@
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-abims&theme=dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on Amazing Things
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently building amazing things
 - 👯 I’m looking to collaborate on Smart Contract Development with foucus on NFt, Defi and DAOS
 - 🤔 I’m looking for help with Smart Contract Security
 - 💬 Ask me about Amazing stuffs ...
