@@ -1,9 +1,5 @@
 ### Hi there 👋
 ### I am Abims,I'm a Solidity Smart Contract Developer with experience deploying innovative solutions Ethereum and other EVM chains   
-
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-abims&show_icons=true&theme=radical) 
--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-abims&theme=dark)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on Amazing Things
 - 🌱 I’m currently building amazing things
 - 👯 I’m looking to collaborate on Smart Contract Development with foucus on NFt, Defi and DAOS
