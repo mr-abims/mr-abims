@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Abims,I'm a Solidity Smart Contract Developer with experience deploying innovative solutions Ethereum and other EVM chains   
+### I am Abims,I'm a Blockchain Developer with experience deploying innovative solutions Ethereum and other EVM chains   
 - 🔭 I’m currently working on Amazing Things
 - 🌱 I’m currently building amazing things
 - 👯 I’m looking to collaborate on Smart Contract Development with foucus on NFt, Defi and DAOS
