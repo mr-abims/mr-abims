@@ -16,8 +16,5 @@
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/mr_abims)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/abimbola-adebayo01/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-abims)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-abims&show_icons=true&theme=gotham)
-
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mr-abims)
