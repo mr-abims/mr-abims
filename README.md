@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Abims,I'm a Blockchain Developer with experience deploying innovative solutions Ethereum and other EVM chains   
+### I am Abims,I'm a Blockchain Developer with experience deploying innovative solutions 
 - 🔭 I’m currently working on Amazing Things
 - 🌱 I’m currently building amazing things
 - 👯 I’m looking to collaborate on Projects with Solidity and Rust
